@@ -16,6 +16,7 @@
     <description>paicoding-demo</description>
     <modules>
         <module>schema-init</module>
+        <module>qrcode_login</module>
     </modules>
 
     <properties>
